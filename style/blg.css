@@ -1,0 +1,40 @@
+h1{
+    font-size: 55px;
+    height:430px;
+    background-color:rgb(220, 245, 231);
+    background-image: url("Elogo.png");
+    background-size: 480px;
+}
+
+.top{
+    background-color: brown;
+}
+
+.one{
+    background-color: rgb(255, 226, 196);
+    font-size:x-large;
+}
+.one::first-letter{
+    font-size: 60px;
+}
+.two{
+    color:darkgreen;
+    font-size:35px;
+}
+#rrr{
+    color:rgb(92, 137, 205);
+    font-size: 40px;
+}
+.rck{
+    color:crimson;
+    font-size: 45px;
+    font-weight: bolder;
+}
+h2{
+    text-align:left;
+    color:cadetblue;
+}
+.mat{
+    font-size:37px;
+    background-color: aquamarine;
+}
