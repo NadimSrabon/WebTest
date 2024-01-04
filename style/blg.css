@@ -38,3 +38,31 @@ h2{
     font-size:37px;
     background-color: aquamarine;
 }
+.dpk{
+    background-color: rgb(127, 227, 255);
+    color:blue;
+    font-size:60px;
+}
+.pik{
+    width:200px;
+}
+.mkp{
+    background-color:darksalmon;
+    font-size:40px;
+    font-weight:800;
+    padding:4px;
+    border-top: 11px solid darkblue;
+    border-radius: 9px;
+    border-right: 10px ;
+    box-shadow: 10px 10px 15px;
+    margin:5px;
+}
+.alt{
+    background-color: rgb(223, 245, 220);
+}
+.end{
+    background-color:rgb(239, 250, 210);
+}
+.whl{
+    background-color: darkred;
+}
